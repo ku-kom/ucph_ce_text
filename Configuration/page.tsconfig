@@ -1,1 +1,16 @@
-@import 'EXT:ucph_ce_text/Configuration/TsConfig/Page/*
+mod.wizards.newContentElement.wizardItems {
+  // add the content element to the tab "common"
+  common {
+    elements {
+      ucph_ce_regular_text {
+        iconIdentifier = content-text
+        title = LLL:EXT:ucph_ce_text/Resources/Private/Language/locallang_be.xlf:ucph_ce_text_title
+        description = LLL:EXT:ucph_ce_text/Resources/Private/Language/locallang_be.xlf:ucph_ce_text_desc
+        tt_content_defValues {
+          CType = ucph_ce_regular_text
+        }
+      }
+    }
+    show := addToList(ucph_ce_regular_text)
+  }
+}
