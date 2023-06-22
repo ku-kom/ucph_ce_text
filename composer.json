@@ -1,0 +1,22 @@
+{
+    "name": "university-of-copenhagen/ucph_ce_text",
+    "type": "typo3-cms-extension",
+    "description": "UCPH TYPO3 content element \"Regular text\"",
+    "authors": [{
+        "name": "Nanna Ellegaard",
+        "role": "Developer"
+    }],
+    "homepage": "https://www.ku.dk/",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "autoload": {
+        "psr-4": {
+            "UniversityOfCopenhagen\\UcphCeText\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "ucph_ce_text"
+        }
+    }
+}
