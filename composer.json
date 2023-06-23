@@ -1,5 +1,5 @@
 {
-    "name": "university-of-copenhagen/ucph_ce_text",
+    "name": "university-of-copenhagen/ucph-ce-text",
     "type": "typo3-cms-extension",
     "description": "UCPH TYPO3 content element \"Regular text\"",
     "authors": [{
