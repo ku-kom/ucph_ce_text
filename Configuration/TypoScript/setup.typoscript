@@ -1,6 +1,6 @@
-#############################################
-#### UCPH CONTENT ELEMENT "rEGULAR TEXT" ####
-#############################################
+tt_content.ucph_ce_regular_text >
+# CTYPE: Text
+
 tt_content.ucph_ce_regular_text =< lib.contentElement
 tt_content.ucph_ce_regular_text {
 	templateName = Text
