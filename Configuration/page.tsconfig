@@ -14,3 +14,21 @@ mod.wizards.newContentElement.wizardItems {
     show := addToList(ucph_ce_regular_text)
   }
 }
+
+mod.wizards.newContentElement.wizardItems {
+  // add the content element to the tab "Text"
+  text {
+    header = LLL:EXT:ucph_ce_text/Resources/Private/Language/locallang_be.xlf:ucph_ce_text_wizard_tab
+    elements {
+      ucph_ce_regular_text {
+        iconIdentifier = content-text
+        title = LLL:EXT:ucph_ce_text/Resources/Private/Language/locallang_be.xlf:ucph_ce_text_title
+        description = LLL:EXT:ucph_ce_text/Resources/Private/Language/locallang_be.xlf:ucph_ce_text_desc
+        tt_content_defValues {
+          CType = ucph_ce_regular_text
+        }
+      }
+    }
+    show := addToList(ucph_ce_regular_text)
+  }
+}
