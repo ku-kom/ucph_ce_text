@@ -12,9 +12,6 @@
         <trans-unit id="ucph_ce_text_desc">
             <source>A regular text element with header and bodytext fields.</source>
         </trans-unit>
-        <trans-unit id="ucph_ce_text_internal_title">
-            <source>Internal title - not displayed in the frontend</source>
-        </trans-unit>
         <trans-unit id="ucph_ce_text_wizard_tab">
             <source>Text</source>
         </trans-unit>
