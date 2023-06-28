@@ -15,6 +15,9 @@
         <trans-unit id="ucph_ce_text_wizard_tab">
             <source>Text</source>
         </trans-unit>
+        <trans-unit id="ucph_ce_text_header">
+            <source>Header</source>
+        </trans-unit>
         </body>
     </file>
 </xliff>
