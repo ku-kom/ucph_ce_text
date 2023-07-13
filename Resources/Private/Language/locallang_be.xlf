@@ -10,7 +10,7 @@
             <source>Regular text element</source>
         </trans-unit>
         <trans-unit id="ucph_ce_text_desc">
-            <source>A regular text element with header and bodytext fields.</source>
+            <source>A regular text element with header and text field.</source>
         </trans-unit>
         <trans-unit id="ucph_ce_text_wizard_tab">
             <source>Text</source>
