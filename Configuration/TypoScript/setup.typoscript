@@ -1,16 +1,16 @@
-tt_content.ucph_ce_text >
+tt_content.ucph_content_text >
 # CTYPE: Text
 
-tt_content.ucph_ce_text =< lib.contentElement
-tt_content.ucph_ce_text {
+tt_content.ucph_content_text =< lib.contentElement
+tt_content.ucph_content_text {
 	templateName = Text
 	templateRootPaths {
-        101 = EXT:ucph_ce_text/Resources/Private/Templates/
+        101 = EXT:ucph_content_text/Resources/Private/Templates/
     }
     partialRootPaths {
-        101 = EXT:ucph_ce_text/Resources/Private/Partials/
+        101 = EXT:ucph_content_text/Resources/Private/Partials/
     }
     layoutRootPaths {
-        101 = EXT:ucph_ce_text/Resources/Private/Layouts/
+        101 = EXT:ucph_content_text/Resources/Private/Layouts/
     }
 }

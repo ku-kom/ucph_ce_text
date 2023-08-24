@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-    <file source-language="en" datatype="plaintext" original="EXT:ucph_ce_text/Resources/Private/Language/locallang_be.xlf" date="2023-06-21T10:27:00Z" product-name="ucph_ce_text">
+    <file source-language="en" datatype="plaintext" original="EXT:ucph_content_text/Resources/Private/Language/locallang_be.xlf" date="2023-06-21T10:27:00Z" product-name="ucph_content_text">
         <header>
             <authorName>Nanna Ellegaard</authorName>
             <authorEmail>nel@adm.ku.dk</authorEmail>
         </header>
         <body>
-        <trans-unit id="ucph_ce_text_title">
+        <trans-unit id="ucph_content_text_title">
             <source>Regular text element</source>
         </trans-unit>
-        <trans-unit id="ucph_ce_text_desc">
+        <trans-unit id="ucph_content_text_desc">
             <source>A regular text element with header and text field.</source>
         </trans-unit>
-        <trans-unit id="ucph_ce_text_wizard_tab">
+        <trans-unit id="ucph_content_text_wizard_tab">
             <source>Text</source>
         </trans-unit>
-        <trans-unit id="ucph_ce_text_header">
+        <trans-unit id="ucph_content_text_header">
             <source>Header</source>
         </trans-unit>
         </body>
